@@ -133,3 +133,98 @@ DSA
 
 - [ ] **Greedy**
   - [ ] Huffman Coding
+
+
+
+
+final.  
+
+## 📚 DSA Roadmap
+
+- [ ] **1. Complexity**
+  - [ ] Time Complexity
+  - [ ] Space Complexity
+  - [ ] Big O
+
+- [ ] **2. Arrays & Searching**
+  - [ ] Arrays
+  - [ ] ArrayList
+  - [ ] Linear Search
+  - [ ] Binary Search
+  - [ ] Binary Search in 2D Arrays
+
+- [ ] **3. Sorting**
+  - [ ] Bubble Sort
+  - [ ] Selection Sort
+  - [ ] Insertion Sort
+  - [ ] Cycle Sort
+  - [ ] Merge Sort
+  - [ ] Quick Sort
+  - [ ] Count Sort
+  - [ ] Radix Sort
+
+- [ ] **4. Strings**
+  - [ ] Strings
+  - [ ] StringBuilder
+  - [ ] Karp-Rabin String Matching
+
+- [ ] **5. Recursion**
+  - [ ] Recursion
+  - [ ] Array Problems
+  - [ ] Pattern Problems
+  - [ ] Recursion + Sorting
+  - [ ] Subsets
+  - [ ] Subsequences
+  - [ ] String Problems
+  - [ ] Permutations
+  - [ ] Dice Throw
+  - [ ] Letter Combinations
+
+- [ ] **6. Backtracking**
+  - [ ] Backtracking
+  - [ ] Maze Problems
+  - [ ] N-Queens
+  - [ ] N-Knights
+  - [ ] Sudoku
+
+- [ ] **7. Linked List**
+  - [ ] Singly Linked List
+  - [ ] Doubly Linked List
+  - [ ] Circular Linked List
+  - [ ] Linked List Problems
+
+- [ ] **8. Stack & Queue**
+  - [ ] Stack
+  - [ ] Queue
+  - [ ] Dynamic Stack & Queue
+  - [ ] Circular Stack & Queue
+  - [ ] Stack & Queue Problems
+
+- [ ] **9. Trees**
+  - [ ] Binary Tree
+  - [ ] Tree Traversals
+  - [ ] Binary Search Tree (BST)
+  - [ ] AVL Tree
+  - [ ] Segment Tree
+  - [ ] Binary Tree Problems
+  - [ ] Tree Construction
+  - [ ] Vertical Order Traversal
+  - [ ] BST Problems
+  - [ ] Advanced Binary Tree Problems
+
+- [ ] **10. Heap**
+  - [ ] Heap
+  - [ ] Priority Queue
+  - [ ] Heap Sort
+
+- [ ] **11. Hashing**
+  - [ ] HashMap
+  - [ ] HashTable
+
+- [ ] **12. Range Queries**
+  - [ ] Segment Tree
+  - [ ] Square Root Decomposition
+  - [ ] Mo's Algorithm
+
+- [ ] **13. Greedy**
+  - [ ] Huffman Coding
